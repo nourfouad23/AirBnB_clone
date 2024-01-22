@@ -1,4 +1,4 @@
-footer .Footer{
+.Footer{
 		height: 60px;
 		width: 100%;
 		background-color: white;
@@ -6,3 +6,6 @@ footer .Footer{
 		position: absolute;
 		bottom: 0;
 	}
+.text{
+	text-align: center;
+}

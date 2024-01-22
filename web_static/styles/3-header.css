@@ -1,9 +1,12 @@
-header .Header{
+.Header{
 	color: white;
 	height: 70px;
 	width: 100%;
 	border-bottom: 1px solid #CCCCCC;
 }
 .logo{
-	background-image: './images/logo.png';
+	background-image: url('../images/logo.png') ;
+	background-repeat: no-repeat;
+	height: 60px;
+	background-position: left;
 }
